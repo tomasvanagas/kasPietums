@@ -1,4 +1,6 @@
-# kasPietums.py
+# [*] kasPietums.py
+
+## KYL (Know Your Lunch) at Kaunas Town Hall Square
 
 ![Hackintosh](https://raw.githubusercontent.com/tomasvanagas/kasPietums/master/image.png)
 
